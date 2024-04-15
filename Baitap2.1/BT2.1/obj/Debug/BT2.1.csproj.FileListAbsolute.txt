@@ -1,0 +1,2 @@
+C:\BaiTap.ASPNET_LVH_2210900106\Baitap2.1\BT2.1\obj\Debug\BT2.1.csproj.AssemblyReference.cache
+C:\BaiTap.ASPNET_LVH_2210900106\Baitap2.1\BT2.1\obj\Debug\BT2.1.csproj.CoreCompileInputs.cache
